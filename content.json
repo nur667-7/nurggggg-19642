@@ -1,0 +1,90 @@
+{
+  "name": "Nurggggg",
+  "logoText": "88",
+  "tone": "dynamic",
+  "targetAudience": "подростки",
+  "sections": ["hero", "features", "catalog", "contact", "gallery"],
+  "hero": {
+    "title": "Запустите Nurggggg уже сегодня",
+    "subtitle": "Сайт для знакомств",
+    "primaryCta": "Начать",
+    "secondaryCta": "Подробнее",
+    "imageQuery": "startup website hero"
+  },
+  "theme": {
+    "accent": "#c82014",
+    "accentDark": "#d5cfbe",
+    "warning": "#ffb703",
+    "success": "#2a9d8f"
+  },
+  "features": [{"title": "Скорость", "text": "Быстрый старт с готовыми блоками (Автоматизация шаблонов)"},
+{"title": "Индивидуальность", "text": "Контент под нишу и аудиторию (Gemini structured spec)"},
+{"title": "Публикация", "text": "Автодеплой в GitHub и Vercel (Интегрированный pipeline)"}
+],
+  "categories": ["Сервисы", "Пакеты", "Кейсы"],
+  "cards": [{
+  "id": "1",
+  "title": "Сервисы 1",
+  "description": "Скорость",
+  "details": "Быстрый старт с готовыми блоками. Автоматизация шаблонов",
+  "category": "Сервисы",
+  "imageQuery": "startup website hero",
+  "tags": ["Сервисы", "landing", "AI"]
+},
+{
+  "id": "2",
+  "title": "Пакеты 2",
+  "description": "Индивидуальность",
+  "details": "Контент под нишу и аудиторию. Gemini structured spec",
+  "category": "Пакеты",
+  "imageQuery": "professional business team",
+  "tags": ["Пакеты", "landing", "AI"]
+},
+{
+  "id": "3",
+  "title": "Кейсы 3",
+  "description": "Публикация",
+  "details": "Автодеплой в GitHub и Vercel. Интегрированный pipeline",
+  "category": "Кейсы",
+  "imageQuery": "modern office workspace",
+  "tags": ["Кейсы", "landing", "AI"]
+},
+{
+  "id": "4",
+  "title": "Сервисы 4",
+  "description": "Скорость",
+  "details": "Быстрый старт с готовыми блоками. Автоматизация шаблонов",
+  "category": "Сервисы",
+  "imageQuery": "creative product mockup",
+  "tags": ["Сервисы", "landing", "AI"]
+},
+{
+  "id": "5",
+  "title": "Пакеты 5",
+  "description": "Индивидуальность",
+  "details": "Контент под нишу и аудиторию. Gemini structured spec",
+  "category": "Пакеты",
+  "imageQuery": "technology dashboard screen",
+  "tags": ["Пакеты", "landing", "AI"]
+},
+{
+  "id": "6",
+  "title": "Кейсы 6",
+  "description": "Публикация",
+  "details": "Автодеплой в GitHub и Vercel. Интегрированный pipeline",
+  "category": "Кейсы",
+  "imageQuery": "client presentation meeting",
+  "tags": ["Кейсы", "landing", "AI"]
+}
+],
+  "galleryQueries": ["professional business team", "modern office workspace", "creative product mockup", "technology dashboard screen", "client presentation meeting", "digital agency environment"],
+  "reviews": [
+    {"text": "Запустили рабочий сайт за один вечер, без долгой разработки.", "author": "Алия, Product Manager"},
+    {"text": "Удобные секции, фильтры и модалки. Отличный MVP для продаж.", "author": "Данияр, Founder"},
+    {"text": "Сразу получили репозиторий и деплой, всё прозрачно и быстро.", "author": "Руслан, CTO"}
+  ],
+  "faq": [{"question": "Как быстро можно запустить?", "answer": "Подчеркнуть скорость и простой процесс."},
+{"question": "Можно ли поменять дизайн?", "answer": "Указать, что блоки и тема редактируемы."},
+{"question": "Подходит ли для MVP?", "answer": "Сделать акцент на проверке гипотез."}
+]
+}
